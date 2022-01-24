@@ -15,6 +15,8 @@ Read some of my blogpost:
 
 #### Feel free to contact me
 
+[https://www.traperto.com/versionierung-mit-bitbucket-und-scriptrunner/](https://www.traperto.com/versionierung-mit-bitbucket-und-scriptrunner/)<br>
+
 <!--
 **kryptobi/kryptobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
