@@ -15,7 +15,7 @@ Read some of my blogpost:
 
 #### Feel free to contact me
 
-[https://twitter.com/tjnssn](Twitter)<br>
+[twitter](https://twitter.com/tjnssn)<br>
 
 <!--
 **kryptobi/kryptobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
