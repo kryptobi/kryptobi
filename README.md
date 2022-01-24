@@ -8,10 +8,10 @@ C, C++, C#, Java, Javascript and some Scriptlanguages.
 
 Read some of my blogpost:
 
-[https://www.traperto.com/git-den-letzten-commit-anpassen/](https://www.traperto.com/git-den-letzten-commit-anpassen/)
-[https://www.traperto.com/git-deep-dive/](https://www.traperto.com/git-deep-dive/)
-[https://www.traperto.com/git-bisect-das-hat-mal-funktioniert/](https://www.traperto.com/git-bisect-das-hat-mal-funktioniert/)
-[https://www.traperto.com/versionierung-mit-bitbucket-und-scriptrunner/](https://www.traperto.com/versionierung-mit-bitbucket-und-scriptrunner/)
+[https://www.traperto.com/git-den-letzten-commit-anpassen/](https://www.traperto.com/git-den-letzten-commit-anpassen/)<br>
+[https://www.traperto.com/git-deep-dive/](https://www.traperto.com/git-deep-dive/)<br>
+[https://www.traperto.com/git-bisect-das-hat-mal-funktioniert/](https://www.traperto.com/git-bisect-das-hat-mal-funktioniert/)<br>
+[https://www.traperto.com/versionierung-mit-bitbucket-und-scriptrunner/](https://www.traperto.com/versionierung-mit-bitbucket-und-scriptrunner/)<br>
 
 #### Feel free to contact me
 
