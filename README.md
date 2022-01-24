@@ -6,11 +6,15 @@ A backend software engineer with experience in different frameworks and language
 
 C, C++, C#, Java, Javascript and some Scriptlanguages.
 
-#### Some projects
+#### projects
 
 - [Magic byte Validator / File Validator](https://github.com/neon-JS/MagicBytesValidator)<br>
 
-#### Read some of my blogpost 💡
+#### learnings 💡
+
+- [ActionFilter - Manipulate incoming data](https://github.com/kryptobi/ActionFilter)<br>
+
+#### Read some of my blogpost
 
 [https://www.traperto.com/git-den-letzten-commit-anpassen/](https://www.traperto.com/git-den-letzten-commit-anpassen/)<br>
 [https://www.traperto.com/git-deep-dive/](https://www.traperto.com/git-deep-dive/)<br>
