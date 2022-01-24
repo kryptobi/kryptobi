@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there 👋, i'm Tobi
+
+A backend software engineer with experience in different frameworks and languages with enthusiast in GIT.
+
+#### Languages
+
+C, C++, C#, Java, Javascript and some Scriptlanguages.
+
+Read some of my blogpost:
+
+[https://www.traperto.com/git-den-letzten-commit-anpassen/](https://www.traperto.com/git-den-letzten-commit-anpassen/)
+[https://www.traperto.com/git-deep-dive/](https://www.traperto.com/git-deep-dive/)
+[https://www.traperto.com/git-bisect-das-hat-mal-funktioniert/](https://www.traperto.com/git-bisect-das-hat-mal-funktioniert/)
+[https://www.traperto.com/versionierung-mit-bitbucket-und-scriptrunner/](https://www.traperto.com/versionierung-mit-bitbucket-und-scriptrunner/)
+
+#### Feel free to contact me
 
 <!--
 **kryptobi/kryptobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
