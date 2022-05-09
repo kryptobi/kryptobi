@@ -17,15 +17,20 @@ C, C++, C#, Java, Javascript and some Scriptlanguages.
 
 #### Read some of my blogpost
 
-[https://www.traperto.com/git-den-letzten-commit-anpassen/](https://www.traperto.com/git-den-letzten-commit-anpassen/)<br>
-[https://www.traperto.com/git-deep-dive/](https://www.traperto.com/git-deep-dive/)<br>
-[https://www.traperto.com/git-bisect-das-hat-mal-funktioniert/](https://www.traperto.com/git-bisect-das-hat-mal-funktioniert/)<br>
-[https://www.traperto.com/versionierung-mit-bitbucket-und-scriptrunner/](https://www.traperto.com/versionierung-mit-bitbucket-und-scriptrunner/)<br>
+- [https://www.traperto.com/git-den-letzten-commit-anpassen/](https://www.traperto.com/git-den-letzten-commit-anpassen/)<br>
+- [https://www.traperto.com/git-deep-dive/](https://www.traperto.com/git-deep-dive/)<br>
+- [https://www.traperto.com/git-bisect-das-hat-mal-funktioniert/](https://www.traperto.com/git-bisect-das-hat-mal-funktioniert/)<br>
+- [https://www.traperto.com/versionierung-mit-bitbucket-und-scriptrunner/](https://www.traperto.com/versionierung-mit-bitbucket-und-scriptrunner/)<br>
+- [https://www.traperto.com/git-hook-um-c-code-mit-editorconfig-zu-formatieren/](https://www.traperto.com/git-hook-um-c-code-mit-editorconfig-zu-formatieren/)<br>
+
+#### Company
+
+- [traperto GmbH github](https://github.com/Traperto) <br>
+- [traperto GmbH](https://www.traperto.com/)
 
 #### Feel free to contact me
 
 [twitter](https://twitter.com/tjnssn)<br>
-
 <!--
 **kryptobi/kryptobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
