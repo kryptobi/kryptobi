@@ -6,11 +6,11 @@ A backend software engineer using asp.net with experience in different framework
 
 C, C++, C#, PHP, Java, Javascript and some Scriptlanguages.
 
-#### projects
+#### Projects
 
 - [Magic byte Validator / File Validator](https://github.com/neon-JS/MagicBytesValidator)<br>
 
-#### learnings 💡
+#### Learnings 💡
 
 - [ActionFilter - Manipulate incoming data](https://github.com/kryptobi/ActionFilter)<br>
 - [Modelbuilder Extenions](https://github.com/kryptobi/ModelBuilderExtensions)<br>
@@ -31,6 +31,8 @@ C, C++, C#, PHP, Java, Javascript and some Scriptlanguages.
 #### Feel free to contact me
 
 [twitter](https://twitter.com/tjnssn)<br>
+[linkedIn](https://www.linkedin.com/in/tobias-janssen-72519a16b/)<br>
+[xing](https://www.xing.com/profile/Tobias_Janssen16/cv)<br>
 <!--
 **kryptobi/kryptobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
