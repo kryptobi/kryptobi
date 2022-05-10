@@ -1,10 +1,10 @@
 ### Hi there 👋, i'm Tobi
 
-A backend software engineer with experience in different frameworks and languages with enthusiast in GIT.
+A backend software engineer using asp.net with experience in different frameworks and languages with enthusiast in GIT.
 
 #### Languages
 
-C, C++, C#, Java, Javascript and some Scriptlanguages.
+C, C++, C#, PHP, Java, Javascript and some Scriptlanguages.
 
 #### projects
 
