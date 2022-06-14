@@ -22,6 +22,7 @@ C, C++, C#, PHP, Java, Javascript and some Scriptlanguages.
 - [https://www.traperto.com/git-bisect-das-hat-mal-funktioniert/](https://www.traperto.com/git-bisect-das-hat-mal-funktioniert/)<br>
 - [https://www.traperto.com/versionierung-mit-bitbucket-und-scriptrunner/](https://www.traperto.com/versionierung-mit-bitbucket-und-scriptrunner/)<br>
 - [https://www.traperto.com/git-hook-um-c-code-mit-editorconfig-zu-formatieren/](https://www.traperto.com/git-hook-um-c-code-mit-editorconfig-zu-formatieren/)<br>
+- [https://www.traperto.com/action-filter-manipuliere-daten-bevor-diese-ins-system-kommen/](https://www.traperto.com/action-filter-manipuliere-daten-bevor-diese-ins-system-kommen/)<br>
 
 #### Company
 
