@@ -14,6 +14,7 @@ C, C++, C#, PHP, Java, Javascript and some Scriptlanguages.
 
 - [ActionFilter - Manipulate incoming data](https://github.com/kryptobi/ActionFilter)<br>
 - [Modelbuilder Extenions](https://github.com/kryptobi/ModelBuilderExtensions)<br>
+- [SignalR](https://github.com/kryptobi/SignalR)<br>
 
 #### Read some of my blogpost
 
