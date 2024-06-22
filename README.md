@@ -14,6 +14,7 @@ C, C++, C#, PHP, Java, Javascript and some script languages.
 - [signalR - (simple signalR implementation)](https://github.com/kryptobi/SignalR)<br>
 - [play-ground (some language and feature implementations)](https://github.com/kryptobi/play-ground)
 - [invoce-custom-code](https://github.com/kryptobi/invoce-custom-code-api)
+- [mediator-event-based-architecture](https://github.com/kryptobi/mediator-event-based-architecture)
 
 
 ### blog posts :speech_balloon:
