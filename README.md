@@ -15,6 +15,8 @@ C, C++, C#, PHP, Java, Javascript and some script languages.
 - [play-ground (some language and feature implementations)](https://github.com/kryptobi/play-ground)
 - [invoce-custom-code](https://github.com/kryptobi/invoce-custom-code-api)
 - [mediator-event-based-architecture](https://github.com/kryptobi/mediator-event-based-architecture)
+- [mediator-event-based-architecture](https://github.com/kryptobi/mediator-event-based-architecture)
+- [odata-api-design](https://github.com/kryptobi/odata-api-design)
 
 
 ### blog posts :speech_balloon:
