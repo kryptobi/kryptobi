@@ -7,6 +7,7 @@ C, C++, C#, PHP, Java, Javascript and some script languages.
 ### projects 
 - [magic-byte-validator / file-validator](https://github.com/neon-JS/MagicBytesValidator)<br>
 - [database-easy-log](https://github.com/kryptobi/databaseEasyLog)
+- [https://github.com/kryptobi/chrome-extension-youtrack-swimlane-collapse](chrome extension to collapse all youtrack agile swimlanes)
 
 ### learnings 💡
 - [action-filter - Manipulate incoming data](https://github.com/kryptobi/ActionFilter)<br>
