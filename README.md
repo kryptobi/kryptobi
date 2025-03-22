@@ -4,6 +4,10 @@ I'm Tobi. A backend software engineer using asp.net with experience in different
 ### used/using
 C, C++, C#, PHP, Java, Javascript and some script languages.
 
+### meetups 👥
+
+- [software-architecture (slides included)](https://github.com/kryptobi/meetup-software-architecture)<br>
+
 ### projects 
 - [magic-byte-validator / file-validator](https://github.com/neon-JS/MagicBytesValidator)<br>
 - [database-easy-log](https://github.com/kryptobi/databaseEasyLog)
@@ -17,6 +21,7 @@ C, C++, C#, PHP, Java, Javascript and some script languages.
 - [invoce-custom-code](https://github.com/kryptobi/invoce-custom-code-api)
 - [mediator-event-based-architecture](https://github.com/kryptobi/mediator-event-based-architecture)
 - [odata-api-design](https://github.com/kryptobi/odata-api-design)
+- [streams (meetup prepared)](https://github.com/kryptobi/meetup-streams)
 
 
 ### blog posts :speech_balloon:
