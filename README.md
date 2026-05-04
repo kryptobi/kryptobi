@@ -23,7 +23,7 @@ C, C++, C#, PHP, Java, Javascript and some script languages.
 - [odata-api-design](https://github.com/kryptobi/odata-api-design)
 - [streams (meetup prepared)](https://github.com/kryptobi/meetup-streams)
 
-
+<!--
 ### blog posts :speech_balloon:
 - [https://www.traperto.com/git-den-letzten-commit-anpassen/](https://www.traperto.com/git-den-letzten-commit-anpassen/)<br>
 - [https://www.traperto.com/git-deep-dive/](https://www.traperto.com/git-deep-dive/)<br>
@@ -32,12 +32,13 @@ C, C++, C#, PHP, Java, Javascript and some script languages.
 - [https://www.traperto.com/git-hook-um-c-code-mit-editorconfig-zu-formatieren/](https://www.traperto.com/git-hook-um-c-code-mit-editorconfig-zu-formatieren/)<br>
 - [https://www.traperto.com/action-filter-manipuliere-daten-bevor-diese-ins-system-kommen/](https://www.traperto.com/action-filter-manipuliere-daten-bevor-diese-ins-system-kommen/)<br>
 
+-->
+
 ### company
 - [traperto GmbH github](https://github.com/Traperto) <br>
 - [traperto GmbH](https://www.traperto.com/)
 
 ### contact me
-[twitter](https://twitter.com/tjnssn)<br>
 [linkedIn](https://www.linkedin.com/in/tobias-janssen-72519a16b/)<br>
 
 
