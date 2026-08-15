@@ -1,5 +1,5 @@
 ### 👋
-I'm Tobi. A backend software engineer using asp.net with experience in different frameworks and languages with enthusiast in GIT.
+I'm Tobi. A backend software engineer and teamlead using asp.net with experience in different frameworks and languages with enthusiast in GIT.
 
 ### used/using
 C, C++, C#, PHP, Java, Javascript and some script languages.
@@ -9,6 +9,7 @@ C, C++, C#, PHP, Java, Javascript and some script languages.
 - [software-architecture (slides included)](https://github.com/kryptobi/meetup-software-architecture)<br>
 
 ### projects 
+- [Entity Framework Core 10 provider for MySQL and MariaDB](https://github.com/doka-labs/Doka.EntityFrameworkCore.MySql)<br>
 - [magic-byte-validator / file-validator](https://github.com/neon-JS/MagicBytesValidator)<br>
 - [database-easy-log](https://github.com/kryptobi/databaseEasyLog)
 - [chrome extension to collapse all youtrack agile swimlanes](https://github.com/kryptobi/chrome-extension-youtrack-swimlane-collapse)
@@ -25,22 +26,10 @@ C, C++, C#, PHP, Java, Javascript and some script languages.
 
 <!--
 ### blog posts :speech_balloon:
-- [https://www.traperto.com/git-den-letzten-commit-anpassen/](https://www.traperto.com/git-den-letzten-commit-anpassen/)<br>
-- [https://www.traperto.com/git-deep-dive/](https://www.traperto.com/git-deep-dive/)<br>
-- [https://www.traperto.com/git-bisect-das-hat-mal-funktioniert/](https://www.traperto.com/git-bisect-das-hat-mal-funktioniert/)<br>
-- [https://www.traperto.com/versionierung-mit-bitbucket-und-scriptrunner/](https://www.traperto.com/versionierung-mit-bitbucket-und-scriptrunner/)<br>
-- [https://www.traperto.com/git-hook-um-c-code-mit-editorconfig-zu-formatieren/](https://www.traperto.com/git-hook-um-c-code-mit-editorconfig-zu-formatieren/)<br>
-- [https://www.traperto.com/action-filter-manipuliere-daten-bevor-diese-ins-system-kommen/](https://www.traperto.com/action-filter-manipuliere-daten-bevor-diese-ins-system-kommen/)<br>
+# 🐙 AMA Git
+> **Ask Me Anything about Git** — from commits and branches to rebasing, merging, and advanced workflows.
 
--->
-
-### company
-- [traperto GmbH github](https://github.com/Traperto) <br>
-- [traperto GmbH](https://www.traperto.com/)
+<hr>
 
 ### contact me
 [linkedIn](https://www.linkedin.com/in/tobias-janssen-72519a16b/)<br>
-
-
-### stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kryptobi)](https://github.com/anuraghazra/github-readme-stats)
